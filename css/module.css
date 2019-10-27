@@ -1,0 +1,46 @@
+.left-para {
+  height: 150px;
+  width: 100%;
+  border: black 2px solid;
+  margin-top: -2px;
+}
+
+.para-container {
+  height: 250px;
+  width: 100%;
+  border: black 1px solid;
+  margin-top: -1px;
+}
+  
+.para-container #para1 {
+height: 125px;
+width: 100%;
+border: black 1px solid;
+margin-top: -1px;
+}
+
+.para-container #para2 {
+height: 125px;
+width: 100%;
+border: black 1px solid;
+}
+
+.picture-container {
+ height: 500px;
+ width: 100%;
+ border: black 1px solid;
+ margin-top: -2px;
+}
+
+.header-nav {
+  height: 75px;
+  width: 100%;
+  border: black 2px solid;
+}
+  
+.last-para {
+  height: 80px;
+  width: 100%;
+  border: black 2px solid;
+  margin-top:0.4px;
+}
