@@ -1,0 +1,19 @@
+#para1 p, #para2 p {
+  margin-top: 50px;
+}
+
+#picture-item1, #picture-item2, #picture-item3, #picture-item4  {
+  height: 250px;
+  width: 50%;
+  align-items: inline-block;
+  float: left;
+  border: 1px solid black;
+}
+
+#picture-item1 p, #picture-item2 p, #picture-item3 p, #picture-item4 p {
+  margin-top: 110px;
+}
+
+
+  
+ 

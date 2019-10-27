@@ -1,0 +1,114 @@
+@media only screen and (max-width: 767px) {
+  /* For mobile phones: */
+  [class=""] {
+    width: 100%;
+  }
+
+  .header-nav {background-color:rgb(49, 0, 128)}
+
+  .left-para {background-color: #dde0d0}
+
+  #para1 {background-color:#7c1e1e}
+
+  #para2 {background-color: blue}
+
+  #picture-item1 {background-color: rgb(137, 209, 70)}
+
+  #picture-item2 {background-color: yellow}
+
+  #picture-item3 {background-color: #300408}
+
+  #picture-item4 {background-color: #36188a}
+
+  .last-para {background-color: #3c373c }
+}
+
+@media only screen and (min-width: 768px) {
+/* For desktop: */
+.header-nav {
+  width: 100%;
+  height: 80px;
+}
+
+.left-para {
+  width: 20.998%;
+  height: 480px;
+  float:left;
+  margin-right: -2px;
+}
+
+.para-container {
+  width: 79.167%;
+  height: 160px;
+  float:right;
+}
+
+.para-container #para1, .para-container #para2 {
+  width: 50%;
+  height: 160px;
+  align-items: inline-block;
+  float:right;
+}
+
+.picture-container {
+  width: 79.167%;
+  height: 199.998px; 
+  float: right;
+  margin-top: -1px;
+}
+
+#picture-item1, #picture-item2, #picture-item3, #picture-item4 {
+  width: 25%;
+  height: 199.998px;
+  align-items: inline-block;
+}
+
+.last-para {
+  width: 79.167%;
+  height: 119.9996px;
+  float: right;
+}
+
+nav p {
+  margin-top: 26px;
+}
+
+.left-para p {
+  margin-top: 240px;
+}
+
+#para1 p, #para2 p {
+  margin-top: 70px;
+}
+
+.para-container #para2 {
+  margin-top: -1px;
+}
+
+#picture-item1 p, #picture-item2 p, #picture-item3 p, #picture-item4 p {
+  margin-top: 85px;
+}
+
+.last-para p {
+  margin-top: 45px;
+}
+
+.header-nav {background-color:#30a5c5}
+
+.left-para {background-color: #772b80}
+
+#para1 {background-color:#d99034}
+
+#para2 {background-color: #0b51ed}
+
+#picture-item1 {background-color: violet}
+
+#picture-item2 {background-color: #3fa853}
+
+#picture-item3 {background-color: #74708a}
+
+#picture-item4 {background-color: #383678}
+
+.last-para {background-color: #efdb4a }
+
+}
